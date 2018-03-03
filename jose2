@@ -1,0 +1,1433 @@
+{
+  "name": "📺 TV Directo en Español",
+  "author": "jdoer",
+  "info": "Cualquier problema o solicitud por favor acceder a nuestro hilo oficial en W3UFORUM.COM",
+  "url": "http://w3ubin.com/EJyG9lYpe.w3u",
+  "groups": [
+    {
+      "name": "Deporte",
+      "image": "https://cdn3.iconfinder.com/data/icons/choosesport/png/512/football.png",
+      "info": "Recuerda sincronizar la lista antes o justo al inicio de los eventos para tener las últimas señales disponibles. Para los canales que se abren externamente ↗️, pulsar en el icono de Play ▶️ con un círculo en cuanto aparezca para abrir en el reproductor.",
+      "stations": [
+        {
+          "name": "Bein La Liga",
+          "image": "http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg",
+          "url": "http://nanopool.pw/stream/bein.html",
+          "embed": true
+        },
+        {
+          "name": "Bein La Liga (Opc.2)",
+          "image": "http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/15.ts",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "Bein La Liga (Opc.3)",
+          "image": "http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg",
+          "url": "http://vergol.com/live3/beinliga.php",
+          "referer": "http://vertelevisor.com/tv/deportes/canal-plus-partidazo.html",
+          "isHost": true
+        },
+        {
+          "name": "Bein La Liga (Opc.4)",
+          "image": "http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg",
+          "url": "http://livesports.pw/embed.php?file=beinlaliga&width=650&height=397",
+          "referer": "http://telefivegb.com/canales/deporte/beinlaliga/index2.html",
+          "isHost": true
+        },
+        {
+          "name": "Bein La Liga (Acestream)",
+          "image": "http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg",
+          "url": "http://arenavision2018.tk/01",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+        },
+        {
+          "name": "Bein Sports",
+          "image": "http://todocanales.net/wp-content/uploads/2014/04/bein-sports.jpg",
+          "url": "http://vergol.com/live3/beinsport.php",
+          "referer": "http://verliga.net/live/verliga5.php",
+          "isHost": true
+        },
+        {
+          "name": "Bein Sports (Opc.2)",
+          "image": "http://todocanales.net/wp-content/uploads/2014/04/bein-sports.jpg",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/51.ts",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "Bein Ñ Sports",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",
+          "url": "http://embed.latino-webtv.com/channels/bein.html",
+          "embed": true
+        },
+        {
+          "name": "Bein Ñ Sports (Opc.2)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",
+          "url": "http://www.sunhd.info/channel.php?file=105642&width=675&height=440&autostart=true",
+          "referer": "http://rivonet.xyz/ch32.html",
+          "embed": true
+        },
+        {
+          "name": "M+ Partidazo",
+          "image": "http://www.movistarplus.es/estaticos/images/canales/png/Logo-partidazook.png",
+          "url": "http://nanopool.pw/stream/partidazo.html",
+          "embed": true
+        },
+        {
+          "name": "M+ Partidazo (Opc.2)",
+          "image": "http://www.movistarplus.es/estaticos/images/canales/png/Logo-partidazook.png",
+          "url": "http://verliga.net/live/verliga1.php",
+          "referer": "http://verliga.net/verliga.html",
+          "isHost": true
+        },
+        {
+          "name": "M+ Partidazo (Opc.3)",
+          "image": "http://www.movistarplus.es/estaticos/images/canales/png/Logo-partidazook.png",
+          "url": "http://livesports.pw/embedna.php?file=partidazo&width=650&height=397",
+          "referer": "http://telefivegb.com/tv-spain/ver-canal-movistar-partidazo-online-gratis-vivo/",
+          "isHost": true
+        },
+        {
+          "name": "M+ Futbol",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/800px-Movistar_F%C3%BAtbol.svg.png",
+          "url": "http://www.ucasterplayer.com/hembedplayer/futbolluck/1/650/400",
+          "referer": "http://verdirectotv.com/tv/deportes2/plusfutbol.html",
+          "isHost": true
+        },
+        {       
+          "name": "M+ Futbol (Opc.2)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/800px-Movistar_F%C3%BAtbol.svg.png",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/19.ts", 
+          "userAgent" : "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "M+ Futbol (Opc.3)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/800px-Movistar_F%C3%BAtbol.svg.png",
+          "url": "http://livesports.pw/embed.php?file=futbolespm&width=650&height=397",
+          "referer": "http://telefivegb.com/canales/deporte/futbol/",
+          "isHost": true
+        },
+        {       
+          "name": "La Liga TV",
+          "image": "http://files.laliga.es/seccion_logos/laliga-v-16-9.jpg",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/14.ts", 
+          "userAgent" : "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "LaLiga 123",
+          "image": "http://www.elbanquillodealfie.es/wp-content/uploads/2016/08/laliga-123-v-16-9.jpg",
+          "url": "http://vergol.com/live3/liga123.php",
+          "referer": "http://verliga.net/live/verliga11.php",
+          "isHost": true
+        },
+        {
+          "name": "LaLiga 123 (Opc.2)",
+          "image": "http://www.elbanquillodealfie.es/wp-content/uploads/2016/08/laliga-123-v-16-9.jpg",
+          "url": "http://livesports.pw/embed.php?file=ligaunodostres&width=100%&height=397",
+          "referer": "http://telefivegb.com/deporte/ver-liga-123-en-vivo-y-gratis-online-por-internet/",
+          "isHost": true
+        },
+        {
+          "name": "LaLiga 123 (Acestream)",
+          "image": "http://www.elbanquillodealfie.es/wp-content/uploads/2016/08/laliga-123-v-16-9.jpg",
+          "url": "http://arenavision2018.tk/05",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+        {
+          "name": "Teledeporte",
+          "image": "http://arabast.com/wp-content/uploads/2014/08/tve_teledeporte.png",
+          "url": "http://telefivegb.com/canales/deporte/teledeporte/",
+          "isHost": true
+        },
+        {
+          "name": "GOL",
+          "image": "http://iusport.com/upload/img/periodico/img_22530.jpg",
+          "url": "http://telefivegb.com/canales/deporte/goltv/",
+          "isHost": true
+        },
+        {
+          "name": "GOL (Opc.2)",
+          "image": "http://iusport.com/upload/img/periodico/img_22530.jpg",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/16.ts",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "M+ Deportes 1",
+          "image": "http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254",
+          "url": "http://www.ucasterplayer.com/hembedplayer/deportes1luck/1/650/400",
+          "referer": "http://verdirectotv.com/tv/deportes/plusdeportes.html",
+          "isHost": true
+        },
+        {
+          "name": "M+ Deportes 1 (Opc.2)",
+          "image": "http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254",
+          "url": "http://vergol.com/live1/plusdeportes1.php",
+          "referer": "http://www.vercanalestv.com/tv/deportes/canal-plus-deportes.html",
+          "isHost": true
+        },
+        {
+          "name": "M+ Deportes 1 (Opc.3)",
+          "image": "http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/17.ts",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "M+ Deportes 2",
+          "image": "http://verdirectotv.com/logos/deportes2.png",
+          "url": "http://vergol.com/live1/plusdeportes2.php",
+          "referer": "http://verdirectotv.com/tv/deportes/plusdeportes2.html",
+          "isHost": true
+        },
+        {
+          "name": "M+ Deportes 2 (Opc.3)",
+          "image": "http://verdirectotv.com/logos/deportes2.png",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/18.ts",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "Eurosport",
+          "image": "https://www.underconsideration.com/brandnew/archives/eurosport_monogram.png",
+          "url": "http://vergol.com/live1/eurosport.php",
+          "referer": "http://verdirectotv.com/tv/deportes2/eurosport.html",
+          "isHost": true
+        },
+        {
+          "name": "Eurosport (Opc.2)",
+          "image": "https://www.underconsideration.com/brandnew/archives/eurosport_monogram.png",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/25.ts",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "WIN Sports",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/1200px-Winsports.svg.png",
+          "url": "http://embed.latino-webtv.com/channels/win.html",
+          "embed": true
+        },
+        {
+          "name": "ESPN 1",
+          "image": "https://s3.amazonaws.com/freebiesupply/large/2x/espn-logo-transparent.png",
+          "url": "http://embed.latino-webtv.com/channels/espn.html",
+          "referer": "http://cinestrenostv.tv/canales/envivo/espn.html",
+          "isHost": true
+        },
+        {
+          "name": "ESPN 2",
+          "image": "https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435",
+          "url": "http://embed.latino-webtv.com/channels/espn2.html",
+          "referer": "http://cinestrenostv.tv/canales/envivo/espn2.html",
+          "isHost": true
+        },
+        {
+          "name": "TDN",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png",
+          "url": "http://www.playerhd1.pw/channel.php?file=106006&width=620&height=450&autostart=true",
+          "referer": "http://vertelete.com/canales/deporte/univisiontdn/"
+        },
+        {
+          "name": "TyC",
+          "image": "https://pbs.twimg.com/profile_images/552133013488685056/_YL6wRw3.jpeg",
+          "url": "http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32.m3u8"
+        }, 
+        {
+          "name": "GOL Perú",
+          "image": "https://3.bp.blogspot.com/-dnoADpGQHtk/WQ9NVzskrmI/AAAAAAAAAig/cDLXo3tvieAf4QDNOz2tuDvNGCLoTx0CwCLcB/s1600/gol%2Bperu.jpg",
+          "url": "http://www.embeducaster.com/embedplayer/goltvs655j/1/620/400",
+          "referer": "http://television-envivo.org/deportes/goltv-en-vivo.php"
+        },
+        {
+          "name": "Real Madrid TV",
+          "image": "http://www.defensacentral.com/userfiles/2013/Dec_04/television_interior.jpg",
+          "url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on8"
+        },
+        {
+          "name": "Sevilla FC",
+          "image": "http://adminweb.onlycable.net/img/Canale/small/Sevilla-FC-TV/Sevilla-FC-TV_.png",
+          "url": "http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8",
+          "isHost": false
+        }
+      ]
+    },
+    {
+      "name": "Motor",
+      "image": "https://cdn3.iconfinder.com/data/icons/formula1/f1_png/256/checkered_flag.png",
+      "stations": [
+        {
+          "name": "Movistar Formula 1",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
+          "url": "http://verliga.net/live/verliga9.php",
+          "referer": "http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/",
+          "isHost": true
+        },
+        {
+          "name": "Movistar Formula 1 (Opc.2)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/21.ts",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "Movistar Formula 1 (Opc.3)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
+          "url": "http://livesports.pw/embed.php?file=funoesp&width=650&height=397",
+          "referer": "http://telefivegb.com/deporte/ver-canal-movistar-f1-online-gratis-y-en-vivo-por-internet/",
+          "isHost": true
+        },
+        {
+          "name": "Movistar Formula 1 (Acestream)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png",
+          "url": "http://arenavision2018.tk/10",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+        {
+          "name": "Movistar Moto GP",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-motogp.png",
+          "url": "http://vergol.com/live3/motogp.php",
+          "referer": "http://vertelevisor.com/tv/deportes/moto-gp.html",
+          "isHost": true
+        },
+        {
+          "name": "Movistar Moto GP (Opc.2)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-motogp.png",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/20.ts",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "Movistar Moto GP (Opc.3)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-motogp.png",
+          "url": "http://livesports.pw/embed.php?file=motogpm&width=650&height=397",
+          "referer": "http://verlatv.me/canales/deporte/motogp/",
+          "isHost": true
+        },
+        {
+          "name": "Movistar Moto GP (Acestream)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-motogp.png",
+          "url": "http://arenavision2018.tk/10",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        }
+      ]
+    },
+    {
+      "name": "España",
+      "image": "http://img.freeflagicons.com/thumb/round_button_with_iso_code/spain/spain_640.png",
+      "stations": [
+        {
+          "name": "La 1",
+          "image": "http://4.bp.blogspot.com/_DYPLN06yzrk/TRYgji4BJfI/AAAAAAAAKrc/1vMGBQe8mHk/s1600/%25281%2529_la-1.png",
+          "url": "http://livesports.pw/embedna.php?file=launotelefivegb&width=100%&height=100%",
+          "referer": "http://telefivegb.com/tv-spain/ver-tve-1-en-vivo-en-directo-por-internet-gratis/",
+          "isHost": true
+        },
+        {
+          "name": "La 1 (Opc.2)",
+          "image": "http://4.bp.blogspot.com/_DYPLN06yzrk/TRYgji4BJfI/AAAAAAAAKrc/1vMGBQe8mHk/s1600/%25281%2529_la-1.png",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/10.ts",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "La 2",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png",
+          "url": "http://livesports.pw/embedn.php?file=tvdostelefive&width=650&height=397",
+          "referer": "http://vertutele.com/ver-tve-2-la-2-online-en-directo-gratis-por-internet-24h/",
+          "isHost": true
+        },
+        {
+          "name": "Antena 3",
+          "image": "http://o.aolcdn.com/hss/storage/midas/a7940cbf6cee741b9cefe77833a9605a/205228271/1493731075_712962_1493731585_sumario_normal.jpg",
+          "url": "http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8"
+        },
+        {
+          "name": "Antena 3 (Opc.2)",
+          "image": "http://o.aolcdn.com/hss/storage/midas/a7940cbf6cee741b9cefe77833a9605a/205228271/1493731075_712962_1493731585_sumario_normal.jpg",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/11.ts",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "Cuatro",
+          "image": "http://tvonlinegratis.com/wp-content/uploads/2014/01/Cuatro-TV-Es-Logo-300x300.jpg",
+          "url": "http://vergol.com/live1/cuatro.php",
+          "referer": "http://verdirectotv.com/tv/nacionales2/cuatro.html",
+          "isHost": true
+        },
+        {
+          "name": "Cuatro (Opc.2)",
+          "image": "http://tvonlinegratis.com/wp-content/uploads/2014/01/Cuatro-TV-Es-Logo-300x300.jpg",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/12.ts",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "Telecinco",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Telecinco_2012.png",
+          "url": "http://vergol.com/live1/telecinco.php",
+          "referer": "http://verdirectotv.com/tv/nacionales2/telecinco.html",
+          "isHost": true
+        },
+        {
+          "name": "Telecinco (Opc.2)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Telecinco_2012.png",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/13.ts",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "La Sexta",
+          "image": "http://www.brandemia.org/sites/default/files/sites/default/files/logo_la_sexta-despues_2.jpg",
+          "url": "http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on"
+        },	
+        {
+            "name": "#0",
+            "image": "https://www.reasonwhy.es/sites/default/files/cero-canal-plus-movistar-reasonwhy.es__0.png",
+            "referer": "http://cinestrenostv.tv/canales/envivo/plus1.html",
+            "url": "http://www.playerfs.com/hembedplayer/000LK/1/650/400",
+            "isHost": true
+        },
+        {
+            "name": "#0 (Opc.2)",
+            "image": "https://www.reasonwhy.es/sites/default/files/cero-canal-plus-movistar-reasonwhy.es__0.png",
+            "referer": "http://www.vercanalestv.com/tv/nacionales/canal-plus-1.html",
+            "url": "http://vergol.com/live/plus1.php",
+            "isHost": true
+        },
+        {
+            "name": "#0 (Opc.3)",
+            "image": "https://www.reasonwhy.es/sites/default/files/cero-canal-plus-movistar-reasonwhy.es__0.png",
+            "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/1.ts",
+            "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+            "name": "M.Estrenos",
+            "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png",
+            "url": "http://vergol.com/live/plusestrenos.php",
+            "referer": "http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html",
+            "isHost": true
+        },
+        {
+            "name": "M.Estrenos (Opc.2)",
+            "image": "http://vignette4.wikia.nocookie.net/logopedia/images/6/61/MEstrenos.png",
+            "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/2.ts",
+            "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+            "name": "M.Acción",
+            "image": "http://pirlotvlive.es/image/canal/movistar-accion.png",
+            "url": "http://vergol.com/live/plusaccion.php",
+            "referer": "http://vercanalestv.com/tv/nacionales/canal-plus-accion.html",
+            "isHost": true
+        },
+        {
+            "name": "M.Acción (Opc.2)",
+            "image": "http://pirlotvlive.es/image/canal/movistar-accion.png",
+            "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/4.ts",
+            "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+		{
+            "name": "M.DCine",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png",
+            "url": "http://vergol.com/live/dcine.php",
+            "referer": "http://verdirectotv.com/tv/digitales/plusdcine.html",
+            "isHost": true
+        },
+        {
+            "name": "M.DCine (Opc.2)",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png",
+            "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/3.ts",
+            "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+		{
+            "name": "M.Comedia",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1200px-Movistar_Comedia.svg.png",
+            "url": "http://vergol.com/live/comedia.php",
+            "referer": "http://verdirectotv.com/tv/digitales/pluscomedia.html",
+            "isHost": true
+        },
+        {
+            "name": "M.Comedia (Opc.2)",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1200px-Movistar_Comedia.svg.png",
+            "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/5.ts",
+            "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+            "name": "M.Series",
+            "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-series.jpg",
+            "url": "http://cinestrenostv.tv/canales/envivo/plusseries.html",
+            "referer": "http://cinestrenostv.tv/canales/envivo/plusseries.html",
+            "isHost": true
+        },
+        {
+            "name": "M.Series (Opc.2)",
+            "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-series.jpg",
+            "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/32.ts",
+            "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+		{
+            "name": "M.Series Xtra",
+            "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series-extra.jpg",
+            "url": "http://livesports.pw/embedna.php?file=seriesxtra&width=650&height=397",
+            "referer": "http://telefivegb.com/canales/series/m_series_xtra/",
+            "isHost": true
+        },
+        {
+            "name": "M.Series Xtra (Opc.2)",
+            "image": "http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series-extra.jpg",
+            "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/33.ts",
+            "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+            "name": "FOX",
+            "image": "http://logok.org/wp-content/uploads/2014/10/FOX-TV-logo.png",
+            "url": "http://vergol.com/live/fox.php",
+            "referer": "http://vercanalestv.com/tv/nacionales/fox.html",
+            "isHost": true
+        },
+        {
+            "name": "FOX (Opc.2)",
+            "image": "http://logok.org/wp-content/uploads/2014/10/FOX-TV-logo.png",
+            "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/34.ts",
+            "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+            "name": "AMC",
+            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQh6HJmKlwuackv27sJiCAeqywUKaWu2k01oVCCOFS2HAnuO0VSlgBB79Y",
+            "url": "http://livesports.pw/embedna.php?file=amcesptele&width=650&height=400",
+            "referer": "http://cinestrenostv.tv/canales/envivo/amc.html",
+            "isHost": true
+        },
+		{
+            "name": "TNT",
+            "image": "https://vignette4.wikia.nocookie.net/logopedia/images/5/56/Tnthd.png/revision/latest?cb=20160506214715",
+            "url": "http://livesports.pw/embedna.php?file=tntesp&width=640&height=400",
+            "referer": "http://cinestrenostv.tv/canales/envivo/tnt.html",
+            "isHost": true
+        },
+        {
+            "name": "TNT (Opc.2)",
+            "image": "https://vignette4.wikia.nocookie.net/logopedia/images/5/56/Tnthd.png/revision/latest?cb=20160506214715",
+            "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/39.ts",
+            "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+            "name": "AXN",
+            "image": "http://cdn32.sptndigital.com/sites/es.axn/files/logos/program_menu_logo.png",
+            "url": "http://livesports.pw/embedna.php?file=axnues&width=650&height=400",
+            "referer": "http://cinestrenostv.tv/canales/envivo/axn.html",
+            "isHost": true
+        },
+        {
+            "name": "AXN (Opc.2)",
+            "image": "http://cdn32.sptndigital.com/sites/es.axn/files/logos/program_menu_logo.png",
+            "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/36.ts",
+            "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+		{
+            "name": "Atreseries",
+            "image": "http://elpalomitron.com/wp-content/uploads/2015/11/LOGO-ATRESERIES1-e1447218405447.jpg",
+            "url": "http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8"
+        },
+		{
+            "name": "Calle 13",
+            "image": "http://vercanalestv.com/logos/calle-13.jpg",
+            "url": "http://livesports.pw/embedn.php?file=calltrees&width=650&height=400",
+            "referer": "http://cinestrenostv.tv/canales/envivo/calle13.html",
+            "isHost": true
+        },
+        {
+            "name": "Syfy",
+            "image": "http://logok.org/wp-content/uploads/2015/01/Syfy-logo.png",
+            "url": "http://livesports.pw/embedna.php?file=sysfesp&width=650&height=400",
+            "referer": "http://cinestrenostv.tv/canales/envivo/syfy.html",
+            "isHost": true
+        },
+		{
+            "name": "Paramount Channel",
+            "image": "http://www.sat-charts.eu/img/paramounthd.jpg",
+            "url": "http://paramount.live.flumotion.com/live/chunklist.m3u8"
+        },
+		{
+            "name": "Canal Hollywood",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png",
+            "url": "http://livesports.pw/embedn.php?file=hollywesp&width=650&height=400",
+            "referer": "http://cinestrenostv.tv/canales/envivo/holliwood.html",
+            "isHost": true
+        },
+		{
+            "name": "Dark",
+            "image": "http://ipmark.com/wp-content/uploads/2016/10/DARK-Canal-Televisi%C3%B3n-Terror.png",
+            "url": "http://livesports.pw/embedn.php?file=darkes&width=650&height=397",
+            "referer": "http://cinestrenostv.tv/canales/envivo/dark.html",
+            "isHost": true
+        },
+        {
+            "name": "Nat.Geo",
+            "image": "http://logok.org/wp-content/uploads/2014/06/National-Geographic-logo.png",
+            "url": "http://vergol.com/live/nationalgeo.php",
+            "referer": "http://vercanalestv.com/tv/documentales/national-geographic.html",
+            "isHost": true
+        },
+        {
+            "name": "Nat.Geo (Opc.2)",
+            "image": "http://logok.org/wp-content/uploads/2014/06/National-Geographic-logo.png",
+            "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/26.ts",
+            "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+            "name": "Nat.Geo Wild",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",
+            "url": "http://vergol.com/live/nationalwild.php",
+            "referer": "http://vercanalestv.com/tv/documentales/nat-geo-wild.html",
+            "isHost": true
+        },
+        {
+            "name": "Nat.Geo Wild (Opc.2)",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png",
+            "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/27.ts",
+            "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+		{
+            "name": "Historia",
+            "image": "http://www.historiatv.com/sites/default/files/Logo2.jpg",
+            "url": "http://vergol.com/live/historia.php",
+            "referer": "http://verdirectotv.com/tv/documentales2/historia.html",
+            "isHost": true
+        },
+        {
+            "name": "Historia (Opc.2)",
+            "image": "http://www.historiatv.com/sites/default/files/Logo2.jpg",
+            "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/29.ts",
+            "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+		{
+            "name": "Discovery Channel",
+            "image": "https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png",
+            "url": "http://vergol.com/live/discovery-channel.php",
+            "referer": "http://verdirectotv.com/tv/documentales/discovery.html",
+            "isHost": true
+        },
+		{
+            "name": "Odisea",
+            "image": "http://vignette4.wikia.nocookie.net/logopedia/images/5/5c/Odisea2011.jpg/revision/latest?cb=20110227171834",
+            "url": "http://livesports.pw/embedn.php?file=odiseatelef&width=650&height=400",
+            "referer": "http://cinestrenostv.tv/canales/envivo/odisea.html",
+            "isHost": true
+        },
+        {
+            "name": "Mega",
+            "image": "http://canaltdt.es/wp-content/uploads/2015/06/mega.jpg",
+            "url": "http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8"
+        },
+        {
+            "name": "Mega (Opc.2)",
+            "image": "http://canaltdt.es/wp-content/uploads/2015/06/mega.jpg",
+            "url": "http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8"
+        },
+		{
+            "name": "Comedy Central",
+            "image": "http://2.bp.blogspot.com/-ioWmse38688/T5KVVhPLpjI/AAAAAAAAAFI/DPKraNI9U7M/s1600/366px-Paramount_Comedy_2009.svg.png",
+            "url": "http://livesports.pw/embedn.php?file=comedycentral&width=650&height=400",
+            "referer": "http://cinestrenostv.tv/canales/envivo/comedycentral.html",
+            "isHost": true
+        },
+		{
+            "name": "FDF",
+            "image": "http://tecavicas.es/wp-content/uploads/2013/03/2012_6_14_PHOTO-c6f6c6753dd910d9306ba85b0361904f-1339689259-97.jpg",
+            "url": "http://wwww.dinostream.pw/channel.php?file=105960&width=650&height=400&autostart=true",
+            "referer": "http://cinestrenostv.tv/canales/envivo/fdf.html",
+            "embed": true
+        },
+		{
+            "name": "Neox",
+            "image": "http://parrillatv.mundo-r.com/parrillatv/imagenes/canales/neox.jpg",
+            "url": "http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/master.m3u8"
+        },
+		{
+            "name": "Nova",
+            "image": "http://blogs.antena3.com/clipping/2012/11/07/00360/31.jpg",
+            "url": "http://a3live-lh.akamaihd.net/i/nvhls/geonova_1@379404/master.m3u8"
+        },
+		{
+            "name": "Energy",
+            "image": "http://www.mediaset.es/mediasetcom/brand-download/png/energy_circular_500.png",
+            "url": "http://vergol.com/live/energy.php",
+            "referer": "http://verdirectotv.com/tv/nacionales/energy.html",
+            "isHost": true
+        },
+		{
+            "name": "Canal Cocina",
+            "image": "https://2.bp.blogspot.com/-2wOHsoF5JrI/WFEIqxSzApI/AAAAAAAAg7Y/JDVDszgr5ScLYwmVPPYnOdv9Sc3OqxowACLcB/s1600/canalcocina2.png",
+            "url": "http://livesports.pw/embedn.php?file=cocinaesp&width=650&height=397",
+            "referer": "http://telefivegb.com/canales/documental/cocina/",
+            "isHost": true
+        },
+		{
+            "name": "Divinity",
+            "image": "http://www.caratulasylogos.com/sites/default/files/divinity.jpg",
+            "url": "http://vergol.com/live/divinity.php",
+            "referer": "http://vercanalestv.com/tv/nacionales/divinity.html",
+            "isHost": true
+        },
+        {
+            "name": "Toros TV",
+            "image": "http://www.taroca.es/images/paquetesCanalPlus/toros/toros-tv.jpg",
+            "url": "http://vergol.com/live1/toros.php",
+            "referer": "http://verdirectotv.com/tv/digitales2/plustoros.html",
+            "isHost": true
+        },
+        {
+            "name": "Toros TV (Opc.2)",
+            "image": "http://www.taroca.es/images/paquetesCanalPlus/toros/toros-tv.jpg",
+            "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/22.ts",
+            "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+		{
+            "name": "MTV",
+            "image": "http://plusbits.mx/wp-content/uploads/2013/11/mtv.jpg",
+            "url": "http://vergol.com/live/mtv.php",
+            "referer": "http://vercanalestv.com/tv/nacionales/mtv.html",
+            "isHost": true
+        },
+        {
+            "name": "Hit TV",
+            "image": "http://www.televalentin.com/imagenes/logos/HIT%20TV__8aac0c2fd1.png",
+            "url": "http://kissfm.en-directo.com/iphone/index_multirate.m3u8"
+        },
+        {
+            "name": "24h",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/703px-Logo_TVE-24h.svg.png",
+            "url": "http://www.rtve.es/directo/canal-24h/",
+            "embed": true
+        },
+        {
+            "name": "13tv",
+            "image": "http://1.bp.blogspot.com/-wy_aWa-BFu8/UE6PdMavkOI/AAAAAAAAEhc/gW36DmJpUfo/s1600/13tvlogonuevo.jpg",
+            "url": "http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8?idLive=021&referer=TkQ="
+        },
+        {
+            "name": "Euronews",
+            "image": "http://www.panoramaaudiovisual.com/wp-content/uploads/2009/12/euronews_logo.jpg",
+            "url": "http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8"
+        },
+        {
+            "name": "RT Noticias",
+            "image": "http://1.bp.blogspot.com/-BlviRjmWw4Y/VCc9McMpx6I/AAAAAAAABAg/9YM7fOvO_Qg//rt-logo.png",
+            "url": "http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index.m3u8"
+        },
+        {
+            "name": "RT Noticias (Opc.2)",
+            "image": "http://1.bp.blogspot.com/-BlviRjmWw4Y/VCc9McMpx6I/AAAAAAAABAg/9YM7fOvO_Qg//rt-logo.png",
+            "url": "https://www.youtube.com/watch?v=OALyNX4IbBI"
+        },
+        {
+            "name": "Aragón TV",
+            "image": "https://jovialadventuredotcom.files.wordpress.com/2014/09/aragon-tv.jpg",
+            "url": "http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8"
+        },
+		{
+           "name": "Canal Sur Andalucía",
+           "image": "http://www.tv-directo.es/images/canal-sur-andalucia.png",
+           "url": "http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8"
+        },
+		{
+           "name": "TV3 Cat",
+           "image": "http://www.abyssiniafilms.com/docs/00%20del%20vent%20al%20blau/LOGO%20TV3%20OFICIAL%20-%20FONS%20NEGRE.jpg",
+           "url": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8"
+        },
+		{
+           "name": "3/24",
+           "image": "https://upload.wikimedia.org/wikipedia/ca/d/dc/Canal3-24_logo2014.png",
+           "url": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8"
+        },
+		{
+           "name": "Super 3",
+           "image": "http://www.accialt.com/sites/default/files/field/image/super3.jpg",
+           "url": "http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/playlist.m3u8"
+        },
+		{
+           "name": "8TV Catalunya",
+           "image": "http://canaltdt.es/wp-content/uploads/2011/11/8tv_logo.jpg",
+           "url": "http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8"
+        },
+		{
+           "name": "IB3 Baleares",
+           "image": "http://ib3tv.com/ib3/baners/PORTADA-header.jpg",
+           "url": "http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8"
+        },
+		{
+           "name": "Asturias 7",
+           "image": "https://todosobrearbitraje.files.wordpress.com/2010/07/tpa.jpg",
+           "url": "http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8"
+        },
+		{
+           "name": "Popular TV Cantabria",
+           "image": "http://www.sotodelamarina.com/Logos/Populartv_Cantabria.jpg",
+           "url": "http://cls.todostreaming.eu/ptvcantabria/livestream/playlist.m3u8"
+        },
+		{
+           "name": "Navarra TV",
+           "image": "http://www.navarrasport.com/files/images/news/2015102917572252048.jpg",
+           "url": "http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8"
+        },
+		{
+           "name": "Canal Castilla la Mancha",
+           "image": "http://www.brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg",
+           "url": "http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8"
+        },
+        {
+            "name": "Castilla y León TV",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logo_RTVCYL.svg/245px-Logo_RTVCYL.svg.png",
+            "url": "rtmp://cdn.s5.eu.nice264.com:1935/niceLiveServer/cyl_cyltvlivem_MB_698ext"
+        },
+		{
+           "name": "Telemadrid",
+           "image": "http://www.ppboadilla.org/wp-content/uploads/2016/07/photo.jpg",
+           "url": "http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8"
+        },
+		{
+           "name": "LaOtra",
+           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/LaOtra-Logo.png/340px-LaOtra-Logo.png",
+           "url": "http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8"
+        },
+		{
+           "name": "ETB Euskadi",
+           "image": "https://ciberpebi.files.wordpress.com/2009/05/eitbeus_fondonegro.jpg",
+           "url": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8"
+        },
+		{
+           "name": "Canal Extremadura",
+           "image": "http://www.parrillatv.com/wp-content/uploads/programacion-canal-extremadura.jpg",
+           "url": "http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8"
+        },
+		{
+           "name": "7TV Murcia",
+           "image": "http://i64.tinypic.com/6isboi.jpg",
+           "url": "http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "México",
+      "image": "http://img.freeflagicons.com/thumb/round_button_with_iso_code/mexico/mexico_640.png",
+      "stations": [
+        {
+          "name": "Canal de Las Estrellas",
+          "image": "http://chingonatv.com/wp-content/uploads/2013/11/canal-de-las-estrellas-en-HD.jpg",
+          "referer": "http://telerisatv.com/estrell4z/1.html",
+          "url": "http://widestream.io/embed-22049",
+          "isHost": true
+        },
+        {
+          "name": "Canal 5",
+          "image": "http://img2.wikia.nocookie.net/__cb20140717153148/doblaje/es/images/6/62/Nuevo_logotipo_del_Canal_5_2014_3_(M%C3%A9xico).png",
+          "referer": "http://telerisatv.com/2012/04/cinco.html",
+          "url": "http://widestream.io/embed-22048",
+          "isHost": true
+        },
+        {
+          "name": "Azteca 7",
+          "image": "http://vignette4.wikia.nocookie.net/logopedia/images/3/36/907.png/revision/latest?cb=20121007070747",
+          "referer": "http://telerisatv.com/2012/04/siete.html",
+          "url": "http://widestream.io/embed-22052",
+          "isHost": true
+        },
+        {
+          "name": "TLNovelas",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tlnovelas_logo.svg/1200px-Tlnovelas_logo.svg.png",
+          "url": "http://www.fulltvhd.fi/mexico/tlnovelas.php",
+          "referer":"http://www.fulltelevisionhd.net/2014/09/tlnovelas-en-vivo-por-internet.html",
+          "isHost": true
+        },
+        {
+          "name": "Once",
+          "image": "http://conectica.com.mx/wp-content/uploads/2011/10/oncetvmexico.jpg",
+          "url": "http://live2.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8"
+        },
+        {
+          "name": "Foro TV",
+          "image": "http://img4.wikia.nocookie.net/__cb20120813035120/logopedia/images/c/c3/ForoTV.png",
+          "url": "http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8"
+        },
+        {
+          "name": "Imagen TV",
+          "image": "https://i0.wp.com/cdn.webadictos.com/media/2016/10/programacion-imagen-television.jpg?resize=800%2C547&ssl=1",
+          "url": "https://www.youtube.com/watch?v=A-mYmobvMoI"
+        },
+        {
+          "name": "ADN40",
+          "image": "https://www.foromedios.com/uploads/monthly_2017_03/large.58c547d552942_XHTVM-ADN40.png.bc83280d75016331f3449af51be5ecba.png",
+          "url": "http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_1_av-p.m3u8"
+        },
+        {
+          "name": "Azteca Uno",
+          "image": "https://vignette.wikia.nocookie.net/doblaje/images/7/78/Azteca_uno_logo_2018.png/revision/latest?cb=20180101101047&path-prefix=es",
+          "url": "http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8"
+        },
+        {
+          "name": "Milenio Centro",
+          "image": "http://www.ugto.mx/investigacionyposgrado/images/milenio.jpg",
+          "url": "http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956"
+        }
+      ]
+    },
+    {
+      "name": "USA (Español)",
+      "image": "http://img.freeflagicons.com/thumb/round_button_with_iso_code/united_states_of_america/united_states_of_america_640.png",
+      "stations": [
+          
+        {
+          "name": "Univisión",
+          "image": "http://www.la-razon.com/la_revista/cultura/logo-cadena-televisiva-Univision_LRZIMA20121203_0035_11.jpg",
+          "url": "https://iblups.com/flip_Univi4?viewers=true&autoplay=true",
+          "isHost": true
+        },
+        {
+          "name": "Univisión (Opc.2)",
+          "image": "http://www.la-razon.com/la_revista/cultura/logo-cadena-televisiva-Univision_LRZIMA20121203_0035_11.jpg",
+          "url": "http://www.ustream.tv/channel/2LnwKeRPHdp"
+        },
+                {
+          "name": "Telemundo",
+          "image": "http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo_medium.png",
+          "url": "https://iblups.com/flip_chivass69?viewers=true&autoplay=true",
+          "isHost": true
+        },
+        {
+          "name": "Telemundo (Opc.2)",
+          "image": "http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo_medium.png",
+          "url": "http://www.ustream.tv/channel/22489838"
+        },
+        {
+          "name": "UniMas",
+          "image": "https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/unimas_c.png",
+          "url": "http://vaughnlive.tv/embed/video/unimas29?viewers=true&autoplay=true",
+          "embed": true
+        },
+        {
+          "name": "Estrella TV",
+          "image": "https://upload.wikimedia.org/wikipedia/en/8/82/Estrella_TV_Logo.png",
+          "url": "http://vaughnlive.tv/embed/video/estrellatv?viewers=true&autoplay=true",
+          "embed": true
+        },
+         {
+          "name": "Warner Channel",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png",
+          "url": "http://www.janjuaplayer.com/embedplayer/warnerperu/1/600/400",
+          "referer":"http://tvpor-internet.com/warner-en-vivo.html",
+          "isHost": true
+        },
+         {
+          "name": "AXN",
+          "image": "http://vignette4.wikia.nocookie.net/lostpedia/images/7/77/Axn%283%29.png/revision/latest?cb=20071004220040&path-prefix=es",
+          "url": "http://www.castamp.com/embed.php?c=axntv&tk=KMcUdTkD&vwidth=620&vheight=400",
+          "referer": "http://tv.televalltv.net/axn.php?width=620&height=400",
+          "isHost": true
+        },
+        {
+          "name": "FOX",
+          "image": "http://www.dafont.com/forum/attach/orig/3/8/383046.png",
+          "url": "http://embed.latino-webtv.com/channels/fox1.html",
+          "embed": true
+        },
+        {
+          "name": "HBO Plus",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
+          "url": "http://embed.latino-webtv.com/channels/HBO-Plus.html",
+          "embed": true
+        },
+         {
+          "name": "TNT",
+          "image": "http://www.adslzone.tv/app/uploads/2009/09/Logo_TNT.png",
+          "url": "http://www.janjuaplayer.com/embedplayer/tntperucho/1/600/400",
+          "referer": "http://tvpor-internet.com/tnt-latino-en-vivo.html",
+          "isHost": true
+        },         
+        {
+          "name": "AMC",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQh6HJmKlwuackv27sJiCAeqywUKaWu2k01oVCCOFS2HAnuO0VSlgBB79Y",
+          "url": "http://embed.latino-webtv.com/channels/AMC.html",
+          "embed": true
+        },
+         {
+          "name": "National Geographic",
+          "image": "http://logok.org/wp-content/uploads/2014/06/National-Geographic-logo.png",
+          "url": "http://embed.latino-webtv.com/channels/natgeo.html",
+          "embed": true
+        },
+         {
+          "name": "Discovery Channel",
+          "image": "http://logok.org/wp-content/uploads/2014/04/Discovery-Channel-logo.png",
+          "url": "http://www.janjuaplayer.com/embedplayer/discoverysusy/1/600/400",
+          "referer":"http://tvpor-internet.com/discovery-latino-en-vivo.html",
+          "isHost": true
+        },
+         {
+          "name": "History",
+          "image": "http://www.sintelevisor.com/tv/imagenes/history.jpg",
+          "url": "http://vaughnlive.tv/embed/video/universo_?viewers=true&watermark=left&autoplay=true",
+          "embed": true
+        }
+      ]
+    },
+    {
+      "name": "Colombia",
+      "image": "http://img.freeflagicons.com/thumb/round_button_with_iso_code/colombia/colombia_640.png",
+      "stations": [
+        {
+          "name": "Caracol",
+          "image": "http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_2085.png",
+          "url": "http://www.janjuaplayer.com/embedplayer/carcolhdcol/1/700/380",
+          "referer": "http://cdn.divertiendo.me/caracol1.php?width=700&height=380",
+          "isHost": true
+        },
+        {
+          "name": "RCN",
+          "image": "http://www.canalrcn.com/sites/default/files/logo-rcn_10_1.png",
+          "url": "http://www.zony.tv/embedplayer/richireyhd/1/700/380",
+          "referer": "http://cdn.divertiendo.me/rcn1.php?width=700&height=380",
+          "isHost": true
+        },
+        {
+          "name": "Capital 21",
+          "image": "http://api.entutele.com/media/channels/big/canal-capital-21.gif",
+          "url": "http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8?"
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "image": "http://img.freeflagicons.com/thumb/round_button_with_iso_code/argentina/argentina_640.png",
+      "stations": [
+        {
+          "name": "TV Pública",
+          "image": "http://i.imgur.com/sAjtidn.png",
+          "url": "http://streaming.fibercorp.com.ar/a02/ngrp:c7live01-20034_all/master.m3u8"
+        },
+        {
+          "name": "Telefé",
+          "image": "http://1.bp.blogspot.com/_EFkt6UoUZPk/TP53fE6_AdI/AAAAAAAAKdQ/gxH8hbbjiGE/s400/telefe-s.jpg",
+          "url": "http://vaughnlive.tv/embed/video/beto_4?viewers=false&watermark=left&autoplay=true",
+          "embed": true
+        },
+        {
+          "name": "America TV",
+          "image": "http://canalvivo.com.ar/wp-content/uploads/2013/02/america.jpg",
+          "url": "http://www.mipsplayer.com/embedplayer/zeyuganado200/1/620/382",
+          "isHost": true,
+          "referer": "http://tele-on.com/america_tv.html"
+        },
+        {
+          "name": "Canal 9",
+          "image": "http://vignette1.wikia.nocookie.net/logopedia/images/3/32/Canal_9_ba_logo.png/revision/latest?cb=20140923005528",
+          "url": "http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8"
+        },
+        {
+          "name": "El Trece HD",
+          "image": "http://vignette4.wikia.nocookie.net/doblaje/images/7/79/Logotipo_de_El_Trece_(Argentina).png/revision/latest?cb=20160423183448&path-prefix=es",
+          "url": "http://vmf.edge-apps.net/embed/live.php?streamname=el13_live01-100083&autoplay=false",
+          "referer": "http://verfutbol.net/partido/frame333b.html",
+          "isHost": true
+        },
+        {
+          "name": "Todo Noticias",
+          "image": "http://www.ipuntotv.com/IMAGES/TN%20logo%20nuevo.png",
+          "url": "rtmp://stream.tn.com.ar/live playpath=tnhd2 swfUrl=http://tn.com.ar/sites/all/themes/leono/swf/dplayer/player.swf pageUrl=http://tn.com.ar/envivo/24hs"
+        },
+         {
+          "name": "SPACE HD",
+          "image": "http://1.bp.blogspot.com/-2CpYOLSrF2I/VolJBjUmO8I/AAAAAAAAAL0/8fyGvh5rvgQ/s1600/Space_lam_hd.png",
+          "url": "http://www.janjuaplayer.com/embedplayer/spaceperucho/1/600/400",
+          "referer":"http://tvpor-internet.com/space-en-vivo.html",
+          "isHost": true
+        },
+        {
+          "name": "C5N",
+          "image": "http://www.eldiaonline.com/wp-content/uploads/2014/01/C5N.jpg",
+          "url": "rtmp://c5n.stweb.tv:1935/c5n playpath=live_media swfUrl=http://c5n.minutouno.com/js/c5n/jwplayer2014/jwplayer.flash.swf live=1 pageUrl=http://c5n.minutouno.com/contenidos/home.html#player"
+        },
+        {
+          "name": "Orbe 21",
+          "image": "http://www.estudiosoma.com.ar/img/fotos-trabajos/camara-diputados/camaradiputados1.jpg",
+          "url": "http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Perú",
+      "image": "http://img.freeflagicons.com/thumb/round_button_with_iso_code/peru/peru_640.png",
+      "stations": [
+        {
+          "name": "Frecuencia Latina",
+          "image": "http://www.staffcreativa.pe/blog/wp-content/uploads/04-frecuencia-latina.jpg",
+          "url": "http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream1.m3u8"
+        },
+        {
+          "name": "América TV",
+          "image": "http://www.chingonatv.com/wp-content/uploads/2013/11/america-tv.jpg",
+          "url": "http://www.embeducaster.com/embedplayer/americatii/1/620/400",
+          "referer": "http://tele-on.com/america_tv.html",
+          "isHost": true
+        },
+        {
+          "name": "Panamericana TV",
+          "image": "http://www.telenovelasid.com/novelas/panamericana-tv.jpg",
+          "url": "https://www.dailymotion.com/embed/video/x18w5up?syndication=153375&autoPlay=1",
+          "embed": true
+        },
+        {
+          "name": "Canal N",
+          "image": "http://1.bp.blogspot.com/-WgMsAyo01CA/VVNmAS4_igI/AAAAAAAAC6Y/XdJf3-NFYwA/s1600/photo.jpg",
+          "url": "http://www.mipsplayer.com/embedplayer/fulltvhdinfo1300/1/610/380",
+          "isHost": true,
+          "referer": "http://television.me.la/canaln.html"
+        },
+        {
+          "name": "TV Perú",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png",
+          "isHost": true,
+          "url": "http://www.mipsplayer.com/embedplayer/fulltvhdinfo1100/1/610/380",
+          "referer": "http://www.fulltvhd.info/peru/tvperu.php"
+        }
+      ]
+    },
+    {
+      "name": "Chile",
+      "image": "http://img.freeflagicons.com/thumb/round_button_with_iso_code/chile/chile_640.png",
+      "stations": [
+        {
+          "name": "MEGA HD (Necesita IP Chile)",
+          "image": "http://i.imgur.com/IKqmeoX.png",
+          "url": "http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8"
+        },
+        {
+          "name": "TV Chile (Necesita IP Chile)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVChile_logo.png/200px-TVChile_logo.png",
+          "url": "http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8"
+        },
+        {
+          "name": "La Red",
+          "image": "http://tecache.cl/wp-content/uploads/2012/08/La-Red-logo.png",
+          "url": "http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Uruguay",
+      "image": "http://img.freeflagicons.com/thumb/round_button_with_iso_code/uruguay/uruguay_640.png",
+      "stations": [
+        {
+          "name": "Canal Once",
+          "image": "http://www.canalonce.com.uy/imagenes/logotipoonce.jpg",
+          "url": "http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "ArenaVision",
+      "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+      "stations": [
+        {
+          "name": "** Agenda de Eventos",
+          "image": "http://www.esna.com/images/testimonials/agenda_android.png",
+          "url": "http://arenavision.us/guide",
+          "embed": true
+        },
+        {
+          "name": "ArenaVision 1",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "acestream://ff147adf1e7fd7ac225ec7fb863d111d3be4f73c"
+        },
+        {
+          "name": "ArenaVision 2",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/02",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 3",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/03",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 4",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/04",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 5",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/05",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 6",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/06",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 7",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/07",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 8",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/08",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 9",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/09",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 10",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/10",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 11",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/11",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 12",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/12",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 13",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/13",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 14",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/14",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 15",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/15",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 16",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/16",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 17",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/17",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 18",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/18",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 19",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/19",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 20",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/20",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 21",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/21",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 22",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/22",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 23",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/23",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 24",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/24",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 25",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/25",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 26",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/26",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 27",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/27",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 28",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/28",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 29",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/29",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 30",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/30",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        },
+		{
+          "name": "ArenaVision 31",
+          "image": "https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg",
+          "url": "http://arenavision2018.tk/31",
+          "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4; es; Google Pixel XL) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+          "isHost": true
+        }
+      ]
+    },
+    {
+      "name": "Adultos",
+      "image": "http://www.redditstatic.com/interstitial-image-over18.png",
+      "stations": [
+         {
+          "name": "Playboy TV",
+          "image": "http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos/playboy-tv.png",
+          "url": "http://vergol.com/live/playboy.php",
+          "referer": "http://verdirectotv.com/tv/xxx2/playboy.html",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "name": "Playboy TV (Opc.2)",
+          "image": "http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/satellite-tv-logos/playboy-tv.png",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/45.ts",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "Venus TV",
+          "image": "http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg",
+          "referer": "http://vertelevisor.com/live/venus.php",
+          "url": "http://vergol.com/live/venus.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "name": "Hustler TV",
+          "image": "http://vignette2.wikia.nocookie.net/logopedia/images/3/39/HUSTLER_TV.jpg/revision/latest?cb=20150312135841",
+          "url": "http://livesports.pw/embedna.php?file=hustelar&width=650&height=397",
+          "referer": "http://verplusonline.com/ver-hustler-tv-en-directo-las-24h-contenido-adulto-xxx/",
+          "isHost": true
+        },
+        {
+          "name": "Brazzers Europe",
+          "image": "http://www.mm-eu.tv/wordpress/wp-content/uploads/2015/07/brazzers.png",
+          "url": "http://livesports.pw/embedna.php?file=venus&width=650&height=397",
+          "referer": "http://verplusonline.com/venus-xxx-18/",
+          "isHost": true
+        },
+        {
+          "name": "Brazzers Europe (Opc.2)",
+          "image": "http://www.mm-eu.tv/wordpress/wp-content/uploads/2015/07/brazzers.png",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/46.ts",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "Penthouse TV",
+          "image": "http://vignette1.wikia.nocookie.net/logopedia/images/e/e2/Penthouse_TV.png/revision/latest?cb=20111123211241",
+          "referer": "http://telefivegb.com/canales/adulto/penthouse/",
+          "url": "http://livesports.pw/embedna.php?file=penthouse&width=650&height=397",
+          "isHost": true
+        },
+        {
+          "name": "Penthouse TV (Opc.2)",
+          "image": "http://vignette1.wikia.nocookie.net/logopedia/images/e/e2/Penthouse_TV.png/revision/latest?cb=20111123211241",
+          "url": "http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/50.ts",
+          "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+        },
+        {
+          "name": "HOT",
+          "image": "http://www.redditstatic.com/interstitial-image-over18.png",
+          "referer": "http://vercanalestv.com/tv/nacionales/hot.html",
+          "url": "http://vergol.com/live/hot.php",
+          "isHost": true
+        },
+        
+        {
+          "name": "Jasmin TV",
+          "image": "http://www.sat-address.com/f/pics/logotipi/Jasmin-TV-LU_o.jpg",
+          "url": "rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream"
+        },
+        {
+          "name": "🔞 TUTORIAL: Instalar App Gratis",
+          "image": "http://i.imgur.com/5FZWpUj.png",
+          "url": "https://www.youtube.com/watch?v=ASfbMJ7hWMU"
+        },
+        {
+          "name": "🔞 TUTORIAL: ¿Cómo ver + contenido?",
+          "image": "http://i.imgur.com/5FZWpUj.png",
+          "url": "https://www.youtube.com/watch?v=sUVOqKEp190"
+        }
+      ]
+    }
+  ]
+}
